@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LifeSave - Blood Bank Management System
 
 > [!IMPORTANT]
@@ -184,3 +185,7 @@ To deploy the Vite React SPA on **Vercel**:
 5. Add the following **Environment Variable**:
    - `VITE_API_URL` = `https://your-backend-api.onrender.com/api` (the Render endpoint copied from the backend deployment)
 6. Click **Deploy**. Vercel will build and host your frontend application.
+=======
+# lifesave
+Blood bank donor and management system
+>>>>>>> 5469b5f600829a0b347f12da3c5b93926129751b
